@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<data>
+    <searches>
+        <search>
+            <searchColumn>1</searchColumn>
+            <searchText>Centro comercial Moctezuma</searchText>
+            <returnColumnText>2</returnColumnText>
+            <expectedText>Francisco Chang</expectedText>
+        </search>
+         <search>
+            <searchColumn>2</searchColumn>
+            <searchText>Francisco Chang</searchText>
+            <returnColumnText>3</returnColumnText>
+            <expectedText>Mexico</expectedText>
+        </search>
+         <search>
+            <searchColumn>1</searchColumn>
+            <searchText>Island Trading</searchText>
+            <returnColumnText>2</returnColumnText>
+            <expectedText>Helen Bennett	</expectedText>
+
+        </search>
+        
+    </searches>
+</data>
